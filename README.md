@@ -35,14 +35,7 @@
 
 
 # Autores 
-  Bryan Henrique    
-  Leonardo Sávio Freitas Medrado    
-  Lucas Viana Rodrigues Dos Reis  
-  Arthur Machado Ferreira 
-  Nickole  Eduarda Viana da Rocha
-  Gabryel Junio Costa Teixeira
-  Rebeca C dos Santos
-  Julia Stefanny da S. Soares
+  Bryan Henrique,   Leonardo Sávio Freitas Medrado,   Lucas Viana Rodrigues Dos Reis,   Arthur Machado Ferreira ,  Nickole  Eduarda Viana da Rocha,  Gabryel Junio Costa Teixeira,  Rebeca C dos Santos,  Julia Stefanny da S. Soares
 
 # Licença
 GPL 3.0
