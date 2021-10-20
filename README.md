@@ -10,7 +10,6 @@
 * 4
 
 # Requisitos Funcionais
-Requisitos funcionais:
 
 * O sistema deve ser capaz de cadastras todos os insumos e consumíveis em um banco de dados.
 
